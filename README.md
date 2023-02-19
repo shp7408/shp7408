@@ -1,5 +1,5 @@
-<div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shp7408&theme=swift&show_icons=true)
+<div align=center>
+<img src="https://github-readme-stats.vercel.app/api?username=shp7408&theme=swift&show_icons=true"/>
 </div>
 
 <div align=center><h1>📚 STACKS</h1></div>
