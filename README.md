@@ -5,9 +5,11 @@
    <img alt="" src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logoColor=white" />
    <br>
    
-   <a target="_blank" href="https://github.com/MinGwanSeo/jenga-spring-jpa-app">
+   <a target="_blank" href="https://github.com/MinGwanSeo/jenga-spring-jpa-app"> 
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinGwanSeo&repo=jenga-spring-jpa-app"/>
    </a>
-   <a target="_blank" href="https://github.com/SpringBoot-JPA-study/spring-jpa-springboot-study">
+   <a target="_blank" href="https://github.com/SpringBoot-JPA-study/spring-jpa-springboot-study"> 
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SpringBoot-JPA-study&repo=spring-jpa-springboot-study"/>
    </a>
    
 </div>
