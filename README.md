@@ -4,10 +4,11 @@
    <img alt="" src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
    <img alt="" src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logoColor=white" />
    <br>
-
+   <img width=300 src="https://github-readme-stats.vercel.app/api/pin/?username=MinGwanSeo&repo=jenga-spring-jpa-app"/>
+   <img width=300 src="https://github-readme-stats.vercel.app/api/pin/?username=SpringBoot-JPA-study&repo=spring-jpa-springboot-study"/>
 </div>
 <div align=center>
-    <img alt="" width=600 src="https://github-readme-stats.vercel.app/api?username=shp7408&theme=swift&show_icons=true"/>
+    <img alt="" width=400 src="https://github-readme-stats.vercel.app/api?username=shp7408&theme=swift&show_icons=true"/>
     <br>
     <br>
     <h2>✅ With Work Experience</h2>
