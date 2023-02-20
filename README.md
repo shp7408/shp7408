@@ -9,7 +9,7 @@
       <img width=300 src="https://github-readme-stats.vercel.app/api/pin/?username=shp7408&repo=TIL"/>
    </a>
    <a target="_blank" href="https://github.com/SpringBoot-JPA-study/spring-jpa-springboot-study">
-      <img width=300 src="https://github-readme-stats.vercel.app/api/pin/?username=SpringBoot-JPA-study&repo=TIL"/>
+      <img width=300 src="https://github-readme-stats.vercel.app/api/pin/?username=shp7408&repo=TIL"/>
    </a>
    
 </div>
