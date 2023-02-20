@@ -1,13 +1,14 @@
 <div align=center>
    <h1 style="margin: 0 auto; width: 100%; text-align: center">‘미친 실행력’의 백엔드 개발자, 박서현 입니다 👋</h1>
    <img alt="" src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logoColor=white">
-   <img alt="" src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+   <img alt="https://github.com/SpringBoot-JPA-study/spring-jpa-springboot-study" src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
    <img alt="" src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logoColor=white" />
    <br>
-   <img width=300 src="https://github-readme-stats.vercel.app/api/pin/?username=MinGwanSeo&repo=jenga-spring-jpa-app"/>
-   <img width=300 src="https://github-readme-stats.vercel.app/api/pin/?username=SpringBoot-JPA-study&repo=spring-jpa-springboot-study"/>
+   <a target="_blank" href="https://github.com/MinGwanSeo/jenga-spring-jpa-app"><img width=300 src="https://github-readme-stats.vercel.app/api/pin/?username=MinGwanSeo&repo=jenga-spring-jpa-app"/></a>
+   <a target="_blank" href=""><img width=300 src="https://github-readme-stats.vercel.app/api/pin/?username=SpringBoot-JPA-study&repo=spring-jpa-springboot-study"/></a>
 </div>
 <div align=center>
+   
     <img alt="" width=400 src="https://github-readme-stats.vercel.app/api?username=shp7408&theme=swift&show_icons=true"/>
     <br>
     <br>
