@@ -14,7 +14,9 @@
    
 </div>
 <div align=center>
-    <img alt="" width=400 src="https://github-readme-stats.vercel.app/api?username=shp7408&theme=swift&show_icons=true"/>
+    <a target="_blank" src="https://seohyun-dev.notion.site/401e1d39512e4787ad23ae5b743a9db3">
+       <img alt="" width=400 src="https://github-readme-stats.vercel.app/api?username=shp7408&theme=swift&show_icons=true"/>
+    </a>
     <br>
     <br>
     <h2>✅ With Work Experience</h2>
