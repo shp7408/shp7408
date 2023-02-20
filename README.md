@@ -1,10 +1,16 @@
 <div align=center>
    <h1 style="margin: 0 auto; width: 100%; text-align: center">‘미친 실행력’의 백엔드 개발자, 박서현 입니다 👋</h1>
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinGwanSeo&repo=jenga-spring-jpa-app"/>
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SpringBoot-JPA-study&repo=spring-jpa-springboot-study"/>
+   <img alt="" src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logoColor=white">
+   <img alt="" src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+   <img alt="" src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logoColor=white" />
+   <br>
+   <img width=300 src="https://github-readme-stats.vercel.app/api/pin/?username=MinGwanSeo&repo=jenga-spring-jpa-app"/>
+   <img width=300 src="https://github-readme-stats.vercel.app/api/pin/?username=SpringBoot-JPA-study&repo=spring-jpa-springboot-study"/>
 </div>
 <div align=center>
-      <img alt="" src="https://github-readme-stats.vercel.app/api?username=shp7408&theme=swift&show_icons=true"/>
+    <img alt="" width=600 src="https://github-readme-stats.vercel.app/api?username=shp7408&theme=swift&show_icons=true"/>
+    <br>
+    <br>
     <h2>✅ With Work Experience</h2>
     <p>
        <img src="https://img.shields.io/badge/php-777BB4?style=plastic&logo=php&logoColor=white"/>
@@ -18,6 +24,7 @@
        <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white"/>
        <img src="https://img.shields.io/badge/flask-000000?style=plastic&logo=flask&logoColor=white">
     </p>
+    <br>
     <h2>☑️ Etc</h2>
     <p>
         <img src="https://img.shields.io/badge/linux-FCC624?style=plastic&logo=linux&logoColor=black">
