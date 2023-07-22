@@ -1,12 +1,18 @@
 <div align=center>
    <h1 style="margin: 0 auto; width: 100%; text-align: center">‘미친 실행력’의 백엔드 개발자, 박서현 입니다 👋</h1>
    <img alt="" src="https://img.shields.io/badge/typescript-3178C6?style=plastic&logo=typescript&logoColor=white">
-   <img alt="" src="https://img.shields.io/badge/node.js-339933?style=plastic&logo=Node.js&logoColor=white">
    <img alt="" src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
+   <br>
+   <img alt="" src="https://img.shields.io/badge/node.js-339933?style=plastic&logo=Node.js&logoColor=white">
+   <img alt="" src="https://img.shields.io/badge/nestjs-E0234E?style=plastic&logo=nestjs&logoColor=white">
    <img alt="" src="https://img.shields.io/badge/express-000000?style=plastic&logo=express&logoColor=white">
+   <img alt="" src="https://img.shields.io/badge/fastify-000000?style=plastic&logo=fastify&logoColor=white">
+   <br>
+   <img alt="" src="https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphQL&logoColor=white"/>
+   <img alt="" src="https://img.shields.io/badge/Apollo GraphQL-311C87?style=plastic&logo=Apollo GraphQL&logoColor=white"/>
+   <br>
    <img alt="" src="https://img.shields.io/badge/JAVA-007396?style=plastic&logoColor=white">
    <img alt="" src="https://img.shields.io/badge/springboot-6DB33F?style=plastic&logo=springboot&logoColor=white"/>
-   <img alt="" src="https://img.shields.io/badge/JPA-6DB33F?style=plastic&logoColor=white" />
    <br>
    <a target="_blank" href="https://github.com/MinGwanSeo/jenga-spring-jpa-app"> 
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinGwanSeo&repo=jenga-spring-jpa-app"/>
@@ -26,10 +32,14 @@
        <img src="https://img.shields.io/badge/php-777BB4?style=plastic&logo=php&logoColor=white"/>
        <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white">
        <img src="https://img.shields.io/badge/mariaDB-003545?style=plastic&logo=mariaDB&logoColor=white">
+       <br>
        <img src="https://img.shields.io/badge/amazonaws-232F3E?style=plastic&logo=amazonaws&logoColor=white">
+       <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=plastic&logo=Google Cloud&logoColor=white"/>
        <img src="https://img.shields.io/badge/docker-2496ED?style=plastic&logo=docker&logoColor=white">
+       <br>
        <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white">
        <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white">
+       <img src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white"/>
        <br>
     </p>
     <br>
