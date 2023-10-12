@@ -14,8 +14,8 @@
    <img alt="" src="https://img.shields.io/badge/JAVA-007396?style=plastic&logoColor=white">
    <img alt="" src="https://img.shields.io/badge/springboot-6DB33F?style=plastic&logo=springboot&logoColor=white"/>
    <br>
-   <a target="_blank" href="https://github.com/MinGwanSeo/jenga-spring-jpa-app"> 
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinGwanSeo&repo=jenga-spring-jpa-app"/>
+   <a target="_blank" href="https://github.com/MinGwanSeo/woof-meow-backend"> 
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinGwanSeo&repo=woof-meow-backend"/>
    </a>
    <a target="_blank" href="https://github.com/SpringBoot-JPA-study/spring-jpa-springboot-study"> 
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SpringBoot-JPA-study&repo=spring-jpa-springboot-study"/>
