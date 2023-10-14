@@ -1,5 +1,11 @@
 <div align=center>
-   <h1 style="margin: 0 auto; width: 100%; text-align: center">‘미친 실행력’의 백엔드 개발자, 박서현 입니다 👋</h1>
+   <h1 style="margin: 0 auto; width: 100%; text-align: center">안정적인 서비스 개발에 관심이 많은 백엔드 개발자, 박서현 입니다 👋 </h1>
+   <div>불편함을 당연시 여기지 않고,</div>
+   <div>더 나은 프로세스를 위해,</div>
+   <div>더 나은 사용자 경험을 위해,</div>
+   <div>공부하고, 개발하는 개발자, 박서현 입니다.</div>
+   <br>
+   <br>
    <img alt="" src="https://img.shields.io/badge/typescript-3178C6?style=plastic&logo=typescript&logoColor=white">
    <img alt="" src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
    <br>
