@@ -3,7 +3,7 @@
    <div>불편함을 당연시 여기지 않고,</div>
    <div>더 나은 프로세스를 위해,</div>
    <div>더 나은 사용자 경험을 위해,</div>
-   <div>공부하고, 개발하는 개발자, 박서현 입니다.</div>
+   <div>공부하고, 메모하고, 개발하는 박서현 입니다.</div>
    <br>
    <br>
    <img alt="" src="https://img.shields.io/badge/typescript-3178C6?style=plastic&logo=typescript&logoColor=white">
@@ -11,8 +11,6 @@
    <br>
    <img alt="" src="https://img.shields.io/badge/node.js-339933?style=plastic&logo=Node.js&logoColor=white">
    <img alt="" src="https://img.shields.io/badge/nestjs-E0234E?style=plastic&logo=nestjs&logoColor=white">
-   <img alt="" src="https://img.shields.io/badge/express-000000?style=plastic&logo=express&logoColor=white">
-   <img alt="" src="https://img.shields.io/badge/fastify-000000?style=plastic&logo=fastify&logoColor=white">
    <br>
    <img alt="" src="https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphQL&logoColor=white"/>
    <img alt="" src="https://img.shields.io/badge/Apollo GraphQL-311C87?style=plastic&logo=Apollo GraphQL&logoColor=white"/>
