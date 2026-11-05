@@ -1,55 +1,43 @@
-<div align=center>
-   <h1 style="margin: 0 auto; width: 100%; text-align: center">안정적인 서비스 개발에 관심이 많은 백엔드 개발자, 박서현 입니다 👋 </h1>
-   <div>불편함을 당연시 여기지 않고,</div>
-   <div>더 나은 프로세스를 위해,</div>
-   <div>더 나은 사용자 경험을 위해,</div>
-   <div>공부하고, 메모하고, 개발하는 박서현 입니다.</div>
-   <br>
-   <br>
-   <img alt="" src="https://img.shields.io/badge/typescript-3178C6?style=plastic&logo=typescript&logoColor=white">
-   <img alt="" src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
-   <br>
-   <img alt="" src="https://img.shields.io/badge/node.js-339933?style=plastic&logo=Node.js&logoColor=white">
-   <img alt="" src="https://img.shields.io/badge/nestjs-E0234E?style=plastic&logo=nestjs&logoColor=white">
-   <br>
-   <img alt="" src="https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphQL&logoColor=white"/>
-   <img alt="" src="https://img.shields.io/badge/Apollo GraphQL-311C87?style=plastic&logo=Apollo GraphQL&logoColor=white"/>
-   <br>
-   <img alt="" src="https://img.shields.io/badge/JAVA-007396?style=plastic&logoColor=white">
-   <img alt="" src="https://img.shields.io/badge/springboot-6DB33F?style=plastic&logo=springboot&logoColor=white"/>
-   <br>
-</div>
-<div align=center>
-    <a target="_blank" href="https://seohyun-dev.notion.site/401e1d39512e4787ad23ae5b743a9db3">
-       <img alt="" width=400 src="https://github-readme-stats.vercel.app/api?username=shp7408&theme=swift&show_icons=true"/>
-    </a>
-    <br>
-    <br>
-    <h2>✅ With Work Experience</h2>
-    <p>
-       <img src="https://img.shields.io/badge/php-777BB4?style=plastic&logo=php&logoColor=white"/>
-       <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white">
-       <img src="https://img.shields.io/badge/mariaDB-003545?style=plastic&logo=mariaDB&logoColor=white">
-       <br>
-       <img src="https://img.shields.io/badge/amazonaws-232F3E?style=plastic&logo=amazonaws&logoColor=white">
-       <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=plastic&logo=Google Cloud&logoColor=white"/>
-       <img src="https://img.shields.io/badge/docker-2496ED?style=plastic&logo=docker&logoColor=white">
-       <br>
-       <img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white">
-       <img src="https://img.shields.io/badge/git-F05032?style=plastic&logo=git&logoColor=white">
-       <img src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white"/>
-       <br>
-    </p>
-    <br>
-    <h2>☑️ Etc</h2>
-    <p>
-        <img src="https://img.shields.io/badge/linux-FCC624?style=plastic&logo=linux&logoColor=black">
-        <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/flask-000000?style=plastic&logo=flask&logoColor=white">
-        <br>
-        <img src="https://img.shields.io/badge/html5-E34F26?style=plastic&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/css-1572B6?style=plastic&logo=css3&logoColor=white">
-        <img src="https://img.shields.io/badge/jquery-0769AD?style=plastic&logo=jquery&logoColor=white">
-    </p>
+<div align="center">
+  <h2>백엔드 개발자 박서현입니다</h2>
+  <p>Node.js/NestJS로 서비스를 설계하고 운영합니다. 지금은 배우 캐스팅 플랫폼 <a href="https://plfil.com">플필</a>에서 2인 개발팀의 백엔드를 맡고 있습니다.</p>
+  <p>
+    <a href="https://velog.io/@shp7408/posts">velog</a> ·
+    <a href="https://www.linkedin.com/in/seohyun-park-a071ba215/">LinkedIn</a>
+  </p>
 </div>
 
+### 하는 일
+
+- 알림 발송 큐, 구독 결제, 권한 체계, 외부 연동과 크론을 설계부터 장애 대응까지 운영합니다.
+- 요구사항 확정, 화면 프로토타입, 기획과 API 명세를 문서 저장소로 공유하는 일까지 직접 합니다. 기능 하나를 배포 뒤 지표 확인까지 끝까지 가져가는 쪽이 맞았습니다.
+- 반복 장애는 로그로 원인을 입증한 뒤 재발 방지 장치를 남깁니다. 기술은 "팀이 운영할 수 있는가"를 기준으로 고릅니다.
+- Claude Code와 Codex를 개발 과정에 넣어 쓰되 판단과 검증은 사람이 합니다.
+
+### 주로 쓰는 것
+
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white">
+  <img alt="TypeORM" src="https://img.shields.io/badge/TypeORM-FE0803?style=flat&logo=typeorm&logoColor=white">
+  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+</p>
+
+써 본 것: Java · Spring Boot · WebFlux · Netty · GraphQL · Redis · GCP(Pub/Sub, BigQuery) · AppSync · PHP
+
+### 거쳐 온 곳
+
+| 기간 | 회사 | 한 일 |
+| --- | --- | --- |
+| 2024.06 - 현재 | 플필 | 캐스팅 플랫폼 백엔드. 구독 결제·알림 큐·외부 연동 운영, 자동지원·AI 캐스팅 0→1 |
+| 2023.06 - 2024.06 | 툰스퀘어 | 실시간 협업 툴 MVP를 Technical PM 겸임으로 2개월 내 런칭 |
+| 2023.03 - 2023.05 | 맵시 | 실시간 선박 데이터 스트림 시스템 설계 (Netty · WebFlux · GCP Pub/Sub) |
+| 2021.07 - 2022.06 | 카운터컬쳐컴퍼니 | 글로벌 구독 상품 다국가 PG 연동, PHP 레거시 리팩토링 |
+
+<div align="center">
+  <img alt="GitHub stats" width="400" src="https://github-readme-stats.vercel.app/api?username=shp7408&theme=swift&show_icons=true">
+</div>
